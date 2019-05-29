@@ -1,0 +1,24 @@
+
+
+git -> 버전 관리
+
+
+
+
+github -> 저장소
+
+cmd창에서 너의 프로젝트가 있는 폴더로 이동하고
+cd ~~~~~~~
+
+설정
+git clone https://github.com/angelso0/JavaProject.git
+까먹음
+
+
+올리는거
+git status
+(빨간색으로 된것들)
+git add "파일명"
+git commit -m "설명"
+git push origin master
+
